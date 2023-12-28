@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Ruby
 - 🌱 I’m currently learning ... DevOps
 - 💞️ I’m looking to collaborate on ... Devops with Ruby
-- 📫 How to reach me ... 
+- 📫 How to reach me ... pull 
 
 <!---
 mirukulab/mirukulab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
